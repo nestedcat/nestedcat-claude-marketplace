@@ -19,5 +19,5 @@ A personal Claude Code plugin marketplace by nestedcat.
 After adding the marketplace, install plugins with:
 
 ```bash
-/plugins install plugin-audit@nestedcat-marketplace
+/plugins install plugin-audit@nestedcat-claude-marketplace
 ```
