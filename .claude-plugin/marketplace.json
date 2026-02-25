@@ -6,7 +6,10 @@
   "plugins": [
     {
       "name": "plugin-audit",
-      "source": "https://github.com/nestedcat/plugin-audit",
+      "source": {
+        "source": "github",
+        "repo": "nestedcat/plugin-audit"
+      },
       "description": "Capability inventory & security audit tool for Claude Code"
     }
   ]
